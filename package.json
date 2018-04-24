@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
+    "angular": "^1.6.10",
     "async": "^2.6.0",
     "bcrypt-nodejs": "0.0.3",
     "chai": "^4.1.2",
